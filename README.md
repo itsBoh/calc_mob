@@ -1,6 +1,6 @@
 # Calculator App
 
-<img height="100" alt="image" src="https://github.com/itsBoh/calc_mob/assets/95386669/30d41691-5813-47ef-b6f1-fadfae0acbca">
+<img height="200" alt="image" src="https://github.com/itsBoh/calc_mob/assets/95386669/30d41691-5813-47ef-b6f1-fadfae0acbca">
 
 
 This is a simple iOS calculator app built using SwiftUI. It allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. You can also calculate percentages and switch between positive and negative numbers.
